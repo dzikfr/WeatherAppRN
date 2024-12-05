@@ -1,0 +1,21 @@
+export const cities = [
+    "Depok",
+    "Tangerang",
+    "Pamulang",
+    "Jakarta",
+    "Bogor",
+    "Bekasi",
+    "Bandung",
+    "Surabaya",
+    "Malang",
+    "Serpong",
+    "Cirebon",
+    "Cianjur",
+    "Cimahi",
+    "Tasikmalaya",
+    "Majalengka",
+    "Purwakarta",
+    "Purworejo",
+    "Sragen",
+  ];
+  

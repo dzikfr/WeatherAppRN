@@ -1,0 +1,14 @@
+{
+  "builds": {
+    "android": {
+      "development": {
+        "buildType": "apk",
+        "releaseChannel": "default"
+      },
+      "preview": {
+        "buildType": "apk",
+        "releaseChannel": "preview"
+      }
+    }
+  }
+}
